@@ -1,0 +1,9 @@
+# Track only Projects/PSA; ignore everything else in this workspace
+/*
+!/.gitignore
+!/Projects/
+/Projects/*
+!/Projects/PSA/
+
+# macOS clutter
+.DS_Store
